@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43C9C2</color>
+    <color name="colorPrimaryDark">#43C9C2</color>
+    <color name="colorAccent">#ff000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="background">#F6F6F6</color>
+    <color name="gray333333">#333333</color>
+    <color name="gray666666">#666666</color>
+    <color name="gray999999">#999999</color>
+    <color name="grayF6">#F6F6F6</color>
+    <color name="grayE2">#E2E2E2</color>
+    <color name="titleViewText">#2d2d2d</color>
+    <color name="colorLump">#eaeaea</color>
+    <color name="line">#D5D4D9</color>
+    <color name="orange">#FFB03E</color>
+    <color name="grayF9">#F9F9F9</color>
+    <color name="grayF5">#F5F5F5</color>
+    <color name="gray97">#979797</color>
+    <color name="gray27">#272727</color>
+    <color name="gray23">#232323</color>
+    <color name="gray48">#484848</color>
+    <color name="red">#FA3961</color>
+    <color name="orangered">#EEC591</color>
+
+    <color name="queryResultBg">#4DC3CE</color>
+    <color name="chuxianBg">#0D304F</color>
+
+    <color name="textItemHome">#D8D8D8</color>
+    <color name="purple01">#9933CC</color>
+
+    <color name="yellow">#EFC334</color>
+    <color name="green">#43C9C2</color>
+    <color name="blue">#3E6B89</color>
+
+    <!--图表-->
+    <color name="score">#FFB06C</color>
+    <color name="pink">#F182A6</color>
+    <color name="fill_red">#F22370</color>
+    <color name="fill_green">#CDFFF1</color>
+
+
+    <color name="red_report">#FFA3A2</color>
+
+    <color name="color_d8dbdf">#d8dbdf</color>
+    <color name="product_list_bac">#efeef4</color>
+    <color name="color_3c3c3c">#3c3c3c</color>
+
+    <color name="color_pink">#F9A1BC</color>
+    <color name="color_blue">#6EB6FF</color>
+    <color name="color_purple">#6571AF</color>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标题栏-->
+    <declare-styleable name="TitleView">
+        <attr name="titleText" format="string" />
+        <attr name="titleColor" format="color" />
+        <attr name="showBack" format="boolean" />
+        <attr name="titleBackground" format="color" />
+    </declare-styleable>
+</resources>
